@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862737097794",
+    "project_id": "alertapp-b8d0a",
+    "storage_bucket": "alertapp-b8d0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862737097794:android:a11f9c1bb8092d6f7df9db",
+        "android_client_info": {
+          "package_name": "com.example.alertapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862737097794-05rs6m2fu7uth4ofbrspesbr9838q49f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmZJeHFd2FMxG1zaKPzMUByTqSJjdAEL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862737097794-05rs6m2fu7uth4ofbrspesbr9838q49f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
