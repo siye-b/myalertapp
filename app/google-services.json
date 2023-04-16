@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "862737097794",
-    "project_id": "alertapp-b8d0a",
-    "storage_bucket": "alertapp-b8d0a.appspot.com"
+    "project_number": "731897924009",
+    "project_id": "alertapp-95bef",
+    "storage_bucket": "alertapp-95bef.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:862737097794:android:a11f9c1bb8092d6f7df9db",
+        "mobilesdk_app_id": "1:731897924009:android:91ea723bbe450c8c199cb8",
         "android_client_info": {
           "package_name": "com.example.alertapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "862737097794-05rs6m2fu7uth4ofbrspesbr9838q49f.apps.googleusercontent.com",
+          "client_id": "731897924009-jmrhdtaaujm5kdk24t8o9tllsppb7fai.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCmZJeHFd2FMxG1zaKPzMUByTqSJjdAEL0"
+          "current_key": "AIzaSyBHicWLs2vGRbvuhChzNfFnaFglwOihlqI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "862737097794-05rs6m2fu7uth4ofbrspesbr9838q49f.apps.googleusercontent.com",
+              "client_id": "731897924009-jmrhdtaaujm5kdk24t8o9tllsppb7fai.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
