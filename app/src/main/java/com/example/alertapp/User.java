@@ -1,46 +1,43 @@
 package com.example.alertapp;
 
 public class User {
-
-    public String email, userName, phone, pass;
+    private String name;
+    private String surname;
+    private String email;
 
     public User() {
+        // Default constructor required for Firebase
     }
 
-
-    public User(String email, String phone, String userName, String pass) {
+    public User(String name, String surname, String email) {
+        this.name = name;
+        this.surname = surname;
         this.email = email;
-        this.phone = phone;
-        this.userName = userName;
-        this.pass = pass;
     }
 
-    public void setPass(String pass) {this.pass = pass;}
-
-    public String getPass() {
-        return pass;
+    public String getName() {
+        return name;
     }
 
-    public void setPhone(String phone) {this.phone = phone;}
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public void setSurname(String surname) {
+        this.surname = surname;
+    }
 
     public String getEmail() {
         return email;
-    }
-
-    public String getPhone() {
-        return phone;
     }
 
     public void setEmail(String email) {
         this.email = email;
     }
 
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
 
 }
